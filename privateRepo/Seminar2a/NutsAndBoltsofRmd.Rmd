@@ -1,0 +1,25 @@
+---
+title: "NutsAndBoltsOfRmd"
+author: "Shams Bhuiyan"
+date: '2019-01-14'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+#Things I wrote
+##Things I wrote pt2
+###Things I wrote remix
+####Things I wrote ft. M. Knight Shamalamadingdong
+
+* Reasons I like this course
+    * Shams
+* Reasons I dislike this course
+    + Shams
+  
+#Top Ten Anime Betrayals
+1. When Hayama joined the Elite 10
